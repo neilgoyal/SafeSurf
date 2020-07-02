@@ -1,1 +1,6 @@
-
+{
+    "name": "",
+    "version": "1.0",
+    "description": "Extension to detect phishing and malicious websites",
+    "manifest_version": 2
+  }
