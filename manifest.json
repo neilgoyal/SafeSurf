@@ -2,5 +2,9 @@
     "name": "",
     "version": "1.0",
     "description": "Extension to detect phishing and malicious websites",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
     "manifest_version": 2
   }
