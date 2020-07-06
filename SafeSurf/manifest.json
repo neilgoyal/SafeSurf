@@ -1,8 +1,8 @@
   {
+    "manifest_version": 2,
     "name": "SafeSurf",
     "version": "1.0",
     "description": "Extension to detect malicious website",
-    "default_locale": "en",
     "background": {
         "scripts": ["background.js"]
     },
@@ -14,5 +14,4 @@
     "js": ["jquery-3.5.1.min.js","content.js"]
     }
    ]
-    "manifest_version": 2
   }
