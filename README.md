@@ -1,4 +1,4 @@
-# GPCSSI
+# SafeSurf
 ## Team Members
 - Neil Goyal **[SCH-056]**  
 - Paavan Agrawal **[SCH-058]**  
