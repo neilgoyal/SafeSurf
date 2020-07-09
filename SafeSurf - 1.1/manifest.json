@@ -16,10 +16,10 @@
         "default_popup": "popup_safe.html",
         "default_title": "SafeSurf",
         "default_icon": {
-            "16": "16.png",
-            "32": "32.png",
-            "48": "48.png",
-            "128": "128.png"
+          "16": "imgs/16.png",
+          "32": "imgs/32.png",
+          "48": "imgs/48.png",
+          "128": "imgs/128.png"
         }
     },
     "content_scripts": [
