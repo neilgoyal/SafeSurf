@@ -8,7 +8,7 @@
         "48": "imgs/icon - 48.png",
         "128": "imgs/Popup - with name.png"
     },
-    "description": "Extension to detect malicious website",
+    "description": "Extension to detect malicious websites.",
     "background": {
         "scripts": ["background.js"]
     },
