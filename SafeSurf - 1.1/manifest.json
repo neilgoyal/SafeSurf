@@ -1,12 +1,12 @@
-  {
+ion  {
     "manifest_version": 2,
     "name": "SafeSurf",
     "version": "1.1",
     "icons":{
-        "16": "imgs/16.png",
-        "32": "imgs/32.png",
-        "48": "imgs/48.png",
-        "128": "imgs/128.png"
+        "16": "imgs/extension icon - 16.png",
+        "32": "imgs/icon - 32.png",
+        "48": "imgs/icon - 48.png",
+        "128": "imgs/Popup - with name.png"
     },
     "description": "Extension to detect malicious website",
     "background": {
@@ -16,10 +16,10 @@
         "default_popup": "popup_safe.html",
         "default_title": "SafeSurf",
         "default_icon": {
-          "16": "imgs/16.png",
-          "32": "imgs/32.png",
-          "48": "imgs/48.png",
-          "128": "imgs/128.png"
+          "16": "imgs/extension icon - 16.png",
+          "32": "imgs/icon - 32.png",
+          "48": "imgs/icon - 48.png",
+          "128": "imgs/Popup - with name.png"
         }
     },
     "content_scripts": [
