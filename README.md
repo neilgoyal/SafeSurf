@@ -13,3 +13,7 @@ https://developer.chrome.com/extensions/getstarted
 - Rahil Mittal **[SCH-066]**
 - Paavan Agrawal **[SCH-058]** 
 - Sriman Goel **[SCH-082]**
+
+
+## Contact the Developers
+neilgo1234@gmail.com
