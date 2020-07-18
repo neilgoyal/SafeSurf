@@ -16,5 +16,5 @@ https://developer.chrome.com/extensions/getstarted
 
 
 ## Contact the Developers
-neilgo1234@gmail.com
-rahilmittal1@gmail.com
+-neilgo1234@gmail.com
+-rahilmittal1@gmail.com
