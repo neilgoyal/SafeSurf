@@ -22,6 +22,10 @@
           "128": "imgs/Popup - with name.png"
         }
     },
+  "permissions": [
+  "tabs"
+  "<all_urls>"
+],
     "content_scripts": [
     {
     "matches": [
