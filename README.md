@@ -9,10 +9,10 @@ https://developer.chrome.com/extensions/getstarted
 4. Click on load Unpacked and select the latest version of SafeSurf (1.1)
 
 ## Team Members
-- Neil Goyal **[SCH-056]**   
-- Rahil Mittal **[SCH-066]**
-- Paavan Agrawal **[SCH-058]** 
-- Sriman Goel **[SCH-082]**
+- Neil Goyal    
+- Rahil Mittal 
+- Paavan Agrawal 
+- Sriman Goel 
 
 
 ## Contact the Developers
